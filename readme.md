@@ -33,9 +33,11 @@ Para gerar um sinal PWM com frequência de 50Hz no RP2040:
 
 2. O valor máximo do contador (**WRAP**) é definido como:
 
-   $$ \text{WRAP} = \frac{\text{Clock do Sistema}}{\text{Divisor} \times f} $$
+  ![Equação Branca](https://latex.codecogs.com/png.latex?\color{White}\text{WRAP}=\frac{125\text{MHz}}{125\times50}=20000)
+   
 
    O clock do sistema do RP2040 é **125 MHz**, e o divisor foi escolhido como **125.0**, devido as solicitações para utilizar os correspondentes ciclos ativos e duty cycle.
+   
 
    $$ \text{WRAP} = \frac{125 \text{ MHz}}{125 \times 50} = 20000 $$
 
