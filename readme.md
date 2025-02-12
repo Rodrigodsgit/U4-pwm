@@ -105,4 +105,4 @@ Através da extensão, use o acesso rapido e clique em "Run Project (USB)"
 ## 🚀 Video Demonstração
 
 
-[🎥 Assista ao vídeo](hhttps://youtu.be/IOD3ry44Uro)
+[🎥 Assista ao vídeo](https://youtu.be/IOD3ry44Uro)
